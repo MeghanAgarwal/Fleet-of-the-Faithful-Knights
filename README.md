@@ -13,6 +13,18 @@
 [![Server Library](https://github.com/kashw2/Fleet-of-the-Faithful-Knights/actions/workflows/lib-server.yml/badge.svg)](https://github.com/kashw2/Fleet-of-the-Faithful-Knights/actions/workflows/lib-server.yml)
 [![TypeScript Library](https://github.com/kashw2/Fleet-of-the-Faithful-Knights/actions/workflows/lib-ts.yml/badge.svg)](https://github.com/kashw2/Fleet-of-the-Faithful-Knights/actions/workflows/lib-ts.yml)
 
+
+
+## Table of Contents
+- [Description](#description)
+- [About the Organization](#about-the-organization)
+- [Getting Started](#getting-started)
+- [Dependencies](#dependencies)
+- [Environment Variables](#environment-variables)
+- [Debugging Workflows](#debugging-workflows)
+
+
+#### Description:
 Fleet of the Faithful Knights (FFK) is a Star Citizen organisation that seeks to be a beacon of light in a dark
 universe.
 
@@ -24,6 +36,17 @@ Option, Either, List, Set and Map data structures littered throughout the codeba
 
 I want to say that most of this stuff will just be plug and play but who knows, I might mess something up and break a
 thing or two.
+
+
+#### About the Organization:
+The Fleet of the Faithful Knights is a video game and organization that people can join to participate in various online games.
+
+
+Link to the organization's website: Link to org website: https://robertsspaceindustries.com/orgs/FFK#:~:text=The%20Fleet%20of%20the%20Faithful,NEVER%20shy%20away%20from%20battle.
+
+### Getting Started:
+Install the node packages listed below as a global install. After installation, run the commands below.
+Alternatively, you can clone the repo from github and then install the node packages. 
 
 #### Dependencies:
 
